@@ -1,0 +1,129 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   Licença: nenhuma (domínio público)
+*/
+
+html ,
+corpo ,
+div ,
+intervalo ,
+miniaplicativo ,
+objeto ,
+iframe ,
+h1 ,
+h2 ,
+h3 ,
+h4 ,
+h5 ,
+h6 ,
+p ,
+citação de bloco ,
+pré ,
+um ,
+abr ,
+sigla ,
+endereço ,
+grande ,
+citar ,
+código ,
+do ,
+dfn ,
+em ,
+img ,
+em ,
+kbd ,
+q ,
+s ,
+amostra ,
+pequeno ,
+greve ,
+sub ,
+sup ,
+tt ,
+var ,
+b ,
+você ,
+eu ,
+centro ,
+dl ,
+dt ,
+dd ,
+olá ,
+u ,
+li ,
+conjunto de campo ,
+forma ,
+etiqueta ,
+lenda ,
+mesa ,
+legenda ,
+corpo ,
+pé ,
+cabeça ,
+tr ,
+º ,
+td ,
+artigo ,
+de lado ,
+tela ,
+detalhes ,
+incorporar ,
+figura ,
+figcaption ,
+rodapé ,
+cabeçalho ,
+hgrupo ,
+cardápio ,
+navegação ,
+saída ,
+rubi ,
+seção ,
+resumo ,
+tempo ,
+marca ,
+áudio ,
+vídeo {
+  margem :  0 ;
+  preenchimento :  0 ;
+  borda :  0 ;
+  tamanho da fonte :  100 % ;
+  fonte : herdar;
+  vertical-align : linha de base;
+  box-sizing : border-box;
+}
+/* Redefinição da função de exibição HTML5 para navegadores mais antigos */
+artigo ,
+de lado ,
+detalhes ,
+figcaption ,
+figura ,
+rodapé ,
+cabeçalho ,
+hgrupo ,
+cardápio ,
+navegação ,
+seção {
+  exibição : bloco;
+}
+corpo {
+  altura da linha :  1 ;
+}
+olá ,
+ul {
+  estilo de lista : nenhum;
+}
+citação de bloco ,
+q {
+  citações : nenhuma;
+}
+blockquote : antes ,
+blockquote : depois ,
+q : antes ,
+q : depois de {
+  conteúdo :  "" ;
+  conteúdo : nenhum;
+}
+mesa {
+  colapso da fronteira : colapso;
+  espaçamento entre bordas :  0 ;
+}
